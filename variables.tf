@@ -13,7 +13,3 @@ variable "scope_id" {
 variable "workspace_id" {
   description = "(Required) Azure Monitor workspace ID"
 }
-
-variable "diagsmap" {
-  description = "map of the diagnostics and storage"
-}

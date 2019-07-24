@@ -11,5 +11,5 @@ variable "scope_id" {
 }
 
 variable "workspace_id" {
-  description = "(Required) Azure Monitor workspace ID"
+  description = "(Required) Azure Monitor workspace ID to link to ASC"
 }
